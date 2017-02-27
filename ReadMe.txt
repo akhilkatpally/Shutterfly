@@ -8,6 +8,8 @@ Ingestion.java contains method for ingesting events into data. Assuming events p
 
 Analyze.java contains method for analysing.
 
+Used Jackson json parser for parsing of the event.
+
 #Data cleaning and validations
 
 -Checked for all the required fields and if not present, throws errors and doesn't ingest the event.
