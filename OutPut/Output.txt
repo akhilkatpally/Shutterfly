@@ -1,0 +1,13 @@
+ERROR: Required Fields in the Customer event are not present
+ERROR: Required Fields in the Customer event are not present
+ERROR: Required Fields in the Customer event are not present
+
+Top 7 customers with highest Simple LTV are :
+10000akhil : 1476196.7999999998
+96f55c7d8f42 : 430566.9333333333
+10003akhil : 105216.8
+10002akhil : 53216.8
+10005akhil : 11616.800000000001
+10006akhil : 6416.799999999999
+10004akhil : 2776.8
+
